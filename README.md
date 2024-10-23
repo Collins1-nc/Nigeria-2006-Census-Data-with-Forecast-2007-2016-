@@ -1,4 +1,4 @@
-# Nigeria 2006 Census Data with Forecast (2007-2016)
+# Nigeria 2006 Population Census Data with Forecast (2007-2016)
 
 #### Project Overview 
 
